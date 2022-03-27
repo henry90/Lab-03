@@ -1,4 +1,11 @@
+# Group 3 - Lab 3 Execise
 
+| Name | Email |
+|------|-------|
+|Yuxiao Shen|yshen3@mail.yu.edu|
+|Atreish Ramlakhan|ramlakha@mail.yu.edu|
+|Aishwarya Singh|asingh@mail.yu.edu|
+|Avi Skidelsky|Avigdor.skidelsky@mail.yu.edu|
 # Lab #3: Develop Code Repository and Push Commits 
 
 
